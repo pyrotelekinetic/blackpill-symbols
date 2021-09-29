@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MiniF4x1Cx_V31
+D WeAct MiniF4x1Cx_V31 "BlackPill" development board
+F https://github.com/WeActTC/MiniSTM32F4x1/blob/master/HDK/MiniF4x1Cx_V31.pdf
+$ENDCMP
+#
+#End Doc Library
